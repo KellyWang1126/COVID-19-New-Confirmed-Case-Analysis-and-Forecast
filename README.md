@@ -1,4 +1,4 @@
-# COVID-19-New-Confirmed-Case-Analysis-and-Forecast
+# COVID 19 New Confirmed Case Analysis and Forecast
 
 At the beginning of year 2020, a pandemic disease named COVID-19 started to spread all over the world. Around 6.42 million people confirmed with the disease and 383 thousand people died until today. Unfortunately, the numbers are still increasing. Under the severe situation, this project intends to forecast the new confirmed cases of COVID-19 in the world in order to provide some useful information related to COVID-19 for the unknown future.
 
